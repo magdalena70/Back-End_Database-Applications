@@ -4,6 +4,7 @@ namespace StudentSystem.Data
     using StudentSystem.Models;
     using System;
     using System.Data.Entity;
+    using System.Data.Entity.ModelConfiguration.Conventions;
     using System.Linq;
 
     public class StudentSystemContex : DbContext
@@ -14,6 +15,14 @@ namespace StudentSystem.Data
             Database.SetInitializer(
                 new MigrateDatabaseToLatestVersion<StudentSystemContex, 
                     Configuration>());
+        }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Conventions
+                .Remove<OneToManyCascadeDeleteConvention>();
+
+            base.OnModelCreating(modelBuilder); //Required
         }
 
         public virtual DbSet<Student> Students { get; set; }
