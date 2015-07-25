@@ -1,0 +1,1 @@
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\bin\Debug\01.DbContext-SoftUniDatabase.exe.config

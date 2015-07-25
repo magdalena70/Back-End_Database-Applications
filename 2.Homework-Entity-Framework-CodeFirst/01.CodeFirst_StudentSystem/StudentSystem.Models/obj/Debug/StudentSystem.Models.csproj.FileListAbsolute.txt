@@ -1,0 +1,5 @@
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

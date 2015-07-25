@@ -1,0 +1,14 @@
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\StudentSystem.Client.exe.config
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\StudentSystem.Client.exe
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\StudentSystem.Client.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\EntityFramework.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\StudentSystem.Data.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\StudentSystem.Models.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\StudentSystem.Data.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\StudentSystem.Models.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\EntityFramework.xml
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\obj\Debug\StudentSystem.Client.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\obj\Debug\StudentSystem.Client.exe
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\2.Homework-Entity-Framework-CodeFirst\01.CodeFirst_StudentSystem\StudentSystem.Client\obj\Debug\StudentSystem.Client.pdb

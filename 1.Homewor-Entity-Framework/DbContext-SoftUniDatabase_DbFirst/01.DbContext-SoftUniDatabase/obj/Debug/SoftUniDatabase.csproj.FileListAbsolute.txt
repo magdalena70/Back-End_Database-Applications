@@ -1,0 +1,10 @@
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\bin\Debug\01.DbContext-SoftUniDatabase.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\bin\Debug\01.DbContext-SoftUniDatabase.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\bin\Debug\01.DbContext-SoftUniDatabase.pdb
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\bin\Debug\EntityFramework.dll
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\bin\Debug\EntityFramework.xml
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\obj\Debug\SoftUniDatabase.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\obj\Debug\01.DbContext-SoftUniDatabase.exe
+C:\Users\acer\Documents\GitHub\CSharp-Data Structures\01.DbContext-SoftUniDatabase\01.DbContext-SoftUniDatabase\obj\Debug\01.DbContext-SoftUniDatabase.pdb
