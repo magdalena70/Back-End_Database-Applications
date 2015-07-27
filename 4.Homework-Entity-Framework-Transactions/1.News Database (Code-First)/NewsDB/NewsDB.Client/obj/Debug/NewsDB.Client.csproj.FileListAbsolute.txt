@@ -1,0 +1,14 @@
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\NewsDB.Client.exe.config
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\NewsDB.Client.exe
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\NewsDB.Client.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\EntityFramework.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\NewsDB.Data.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\NewsDB.Models.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\NewsDB.Data.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\NewsDB.Models.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\EntityFramework.xml
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\obj\Debug\NewsDB.Client.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\obj\Debug\NewsDB.Client.exe
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Client\obj\Debug\NewsDB.Client.pdb

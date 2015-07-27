@@ -1,0 +1,5 @@
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Models\bin\Debug\NewsDB.Models.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Models\bin\Debug\NewsDB.Models.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Models\obj\Debug\NewsDB.Models.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Models\obj\Debug\NewsDB.Models.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Models\obj\Debug\NewsDB.Models.pdb

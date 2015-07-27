@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsDB.Models", "NewsDB.Models\NewsDB.Models.csproj", "{8D97E5E1-91BB-4E0E-98D4-073A2699E4DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsDB.Data", "NewsDB.Data\NewsDB.Data.csproj", "{D55E3E82-0FC8-4DE9-9627-6785DC588778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsDB.Client", "NewsDB.Client\NewsDB.Client.csproj", "{E04A7B8E-CD82-4FED-89E2-BCE9CF73E8DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D97E5E1-91BB-4E0E-98D4-073A2699E4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D97E5E1-91BB-4E0E-98D4-073A2699E4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D97E5E1-91BB-4E0E-98D4-073A2699E4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D97E5E1-91BB-4E0E-98D4-073A2699E4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55E3E82-0FC8-4DE9-9627-6785DC588778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55E3E82-0FC8-4DE9-9627-6785DC588778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55E3E82-0FC8-4DE9-9627-6785DC588778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55E3E82-0FC8-4DE9-9627-6785DC588778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04A7B8E-CD82-4FED-89E2-BCE9CF73E8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04A7B8E-CD82-4FED-89E2-BCE9CF73E8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04A7B8E-CD82-4FED-89E2-BCE9CF73E8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04A7B8E-CD82-4FED-89E2-BCE9CF73E8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

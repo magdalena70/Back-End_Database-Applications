@@ -17,6 +17,7 @@ namespace StudentSystem.Data
                     Configuration>());
         }
 
+        //Problem 6 -
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions
@@ -24,6 +25,7 @@ namespace StudentSystem.Data
 
             base.OnModelCreating(modelBuilder); //Required
         }
+        //---------
 
         public virtual DbSet<Student> Students { get; set; }
         public virtual DbSet<Course> Courses { get; set; }

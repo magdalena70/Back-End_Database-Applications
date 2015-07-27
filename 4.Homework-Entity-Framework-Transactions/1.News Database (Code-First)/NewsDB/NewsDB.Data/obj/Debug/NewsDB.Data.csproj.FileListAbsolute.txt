@@ -1,0 +1,12 @@
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\bin\Debug\NewsDB.Data.dll.config
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\bin\Debug\NewsDB.Data.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\bin\Debug\NewsDB.Data.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\bin\Debug\EntityFramework.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\bin\Debug\NewsDB.Models.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\bin\Debug\NewsDB.Models.pdb
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\bin\Debug\EntityFramework.xml
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\obj\Debug\NewsDB.Data.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\obj\Debug\NewsDB.Data.dll
+C:\Users\acer\Documents\GitHub\Back-End_Database-Applications\4.Homework-Entity-Framework-Transactions\1.News Database (Code-First)\NewsDB\NewsDB.Data\obj\Debug\NewsDB.Data.pdb

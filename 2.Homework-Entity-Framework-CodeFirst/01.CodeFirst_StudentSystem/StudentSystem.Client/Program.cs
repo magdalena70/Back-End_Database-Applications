@@ -4,6 +4,7 @@
     using StudentSystem.Models;
     using System;
     using System.Linq;
+    using EntityFramework.Extensions; //update and delete methods
 
     class Program
     {
@@ -139,8 +140,7 @@
                     CoursesCount = s.Courses.Count(),
                     TotalPrice = s.Courses.Sum(c => c.Price),
                     AvgPrice = s.Courses.Sum(c => c.Price) / s.Courses.Count()
-                })
-                .ToList();
+                });
 
             foreach (var st in studentTaxes)
             {
