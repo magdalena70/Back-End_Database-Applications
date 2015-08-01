@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<library name="My Library">
+  <book>
+    <title>My first book</title>
+    <author>Some Author</author>
+    <isbn>123-123-234-4</isbn>
+    <price>0</price>
+  </book>
+  <book>
+    <title>Interesting book</title>
+    <author>Another Author</author>
+    <isbn>123-446-756-3</isbn>
+    <price>0</price>
+  </book>
+</library>

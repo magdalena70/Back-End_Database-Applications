@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="My Music" culture="en-US">
+  <album rating="my favorite">
+    <name>My first Album</name>
+    <artist>Radiohead</artist>
+    <year>2000</year>
+    <producer>Music house</producer>
+    <price>400.2</price>
+    <songs>
+      <song>
+        <title>Bloom</title>
+        <duration>5.05</duration>
+      </song>
+      <song>
+        <title>Little by Little</title>
+        <duration>12.05</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Summer hit</name>
+    <artist>Bai Ivan</artist>
+    <year>2012</year>
+    <producer>Sofia Music Center</producer>
+    <price>15</price>
+    <songs>
+      <song>
+        <title>Let Down</title>
+        <duration>2.12</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Hello Lucky</name>
+    <artist>Portishead</artist>
+    <year>2001</year>
+    <producer>Music place</producer>
+    <price>18.2</price>
+    <songs>
+      <song>
+        <title>Wandering Star</title>
+        <duration>25.2</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Third</name>
+    <artist>Jhon Smit</artist>
+    <year>2012</year>
+    <producer>Pedestal</producer>
+    <price>36.2</price>
+    <songs>
+      <song>
+        <title>Ok Computer</title>
+        <duration>11.2</duration>
+        <title>Electioneering</title>
+        <duration>42</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

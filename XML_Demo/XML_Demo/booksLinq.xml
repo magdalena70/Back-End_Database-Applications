@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book lang="BG">
+    <author>Don Box</author>
+    <title>ASP.NET</title>
+    <price>50</price>
+  </book>
+  <book lang="EN">
+    <author>Svetlin Nakov and team</author>
+    <title>Introduction to Programming with C#</title>
+    <price>100</price>
+  </book>
+</books>
