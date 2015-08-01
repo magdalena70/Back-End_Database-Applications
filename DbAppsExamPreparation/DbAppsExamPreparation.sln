@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DatabaseFirst", "01.DatabaseFirst\01.DatabaseFirst.csproj", "{E7DCFF7C-9592-4F88-9CA9-308A57BE25C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballModels", "FootballModels\FootballModels.csproj", "{5940A02F-1237-4A37-9ACE-E63E387E0750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ExportLeaguesTeamsToJSON", "02.ExportLeaguesTeamsToJSON\02.ExportLeaguesTeamsToJSON.csproj", "{D21645EE-B70F-45B5-9656-1F54A924AC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExportinternationalXML", "03.ExportinternationalXML\03.ExportinternationalXML.csproj", "{CD3BE57F-66C4-4387-BA5A-26AFC95C322F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DCFF7C-9592-4F88-9CA9-308A57BE25C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DCFF7C-9592-4F88-9CA9-308A57BE25C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DCFF7C-9592-4F88-9CA9-308A57BE25C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DCFF7C-9592-4F88-9CA9-308A57BE25C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5940A02F-1237-4A37-9ACE-E63E387E0750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5940A02F-1237-4A37-9ACE-E63E387E0750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5940A02F-1237-4A37-9ACE-E63E387E0750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5940A02F-1237-4A37-9ACE-E63E387E0750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21645EE-B70F-45B5-9656-1F54A924AC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21645EE-B70F-45B5-9656-1F54A924AC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21645EE-B70F-45B5-9656-1F54A924AC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21645EE-B70F-45B5-9656-1F54A924AC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3BE57F-66C4-4387-BA5A-26AFC95C322F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3BE57F-66C4-4387-BA5A-26AFC95C322F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3BE57F-66C4-4387-BA5A-26AFC95C322F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3BE57F-66C4-4387-BA5A-26AFC95C322F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
