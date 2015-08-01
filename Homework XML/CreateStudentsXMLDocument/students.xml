@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students xmlns="urn:students" culture="en-US">
+  <student>
+    <name>Maria Petrova</name>
+    <gender>female</gender>
+    <birthDate>1992-05-12T00:00:00</birthDate>
+    <email>maria@abv.bg</email>
+    <university>SoftUni</university>
+    <specialty>IT</specialty>
+    <facultyNumber>12345</facultyNumber>
+    <exams>
+      <exam>
+        <name>DB Apps</name>
+        <dateTaken>2015-07-28T00:00:00</dateTaken>
+        <grade>5</grade>
+      </exam>
+      <exam>
+        <name>C# Advanced</name>
+        <dateTaken>2015-06-20T00:00:00</dateTaken>
+        <grade>4</grade>
+      </exam>
+    </exams>
+    <endorsements>
+      <endorsement>
+        <author>Dimitar Georgiev</author>
+        <authorEmail>dimitargeorgiev@abv.bg</authorEmail>
+        <date>2015-07-29T00:00:00</date>
+        <text>Some interesting text...</text>
+      </endorsement>
+    </endorsements>
+  </student>
+  <student>
+    <name>Todor Vasilev</name>
+    <gender>male</gender>
+    <birthDate>1992-05-12T00:00:00</birthDate>
+    <phone>+359899123123</phone>
+    <email>todor@mail.bg</email>
+    <university>SoftUni</university>
+    <specialty>Frond-End</specialty>
+    <exams>
+      <exam>
+        <name>JavaScript Apps</name>
+        <dateTaken>2015-07-28T00:00:00</dateTaken>
+        <grade>6</grade>
+      </exam>
+    </exams>
+  </student>
+</students>
